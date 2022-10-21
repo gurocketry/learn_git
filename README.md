@@ -4,7 +4,7 @@
 
 **Why learn git?**
 
-Git is the industry-standard when it comes to sharing codebases.
+Git is the industry-standard when it comes to sharing codebases. \
 It is crucial for any software engineer and an incredibly useful skill to have if you ever have to code in a team.
 
 **Why are we using git?**
